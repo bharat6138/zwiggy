@@ -1,6 +1,6 @@
 import React from "react";
 import { IMG_CDN_URL } from "../utils/constant";
-
+import Image from "../utils/Image";
 const Card = ({
 	name,
 	cloudinaryImageId,
@@ -14,25 +14,26 @@ const Card = ({
 	aggregatedDiscountInfo,
 }) => {
 	return (
-		<div className="relative max-w-max">
+		<div className="relative max-w-max mb-[80px]">
 			<a
 				href="#"
-				className="group cursor-pointer mx-[-20px] mt-[-20px] mb-[0px] block bg-white"
+				className="group cursor-pointer mx-[-20px] mt-[-20px] mb-[-57px] block bg-white "
 			>
 				<div className="group-hover:border group-hover:border-[#d3d5df] px-[20px] pt-[20px] pb-[56px] group-hover:shadow-md">
-					<div className="relative fonts-loaded  ">
+					<div className="relative fonts-loaded  w-[254px]">
 						<div className="bg-[#eef0f5] w-[254px] h-[160px]">
-							<img
-								class="transition-opacity  duration-500 ease-out opacity-1  "
-								alt="Punjabi Angithi"
-								width="254"
-								height="160"
-								src={
-									!cloudinaryImageId
-										? "https://cdn.dribbble.com/users/1012566/screenshots/4187820/media/3cb974c28eb00627cc0671685c79ffd9.jpg"
-										: IMG_CDN_URL + cloudinaryImageId
-								}
-							/>
+							
+							 <Image
+							 class="transition-opacity  duration-500 ease-out opacity-1  "
+							 alt="Punjabi Angithi"
+            style={{ width: 254, height: 160 }}
+            placeholderImg="https://via.placeholder.com/400x200.png?text=This+Will+Be+Shown+Before+Load"
+            src={
+				!cloudinaryImageId
+					? "https://cdn.dribbble.com/users/1012566/screenshots/4187820/media/3cb974c28eb00627cc0671685c79ffd9.jpg"
+					: IMG_CDN_URL + cloudinaryImageId
+			}
+          />
 						</div>
 						<div className="mt-[14px]">
 							<h4 className="text-[17px] font-[500] break-words ">{name}</h4>
