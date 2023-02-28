@@ -12,7 +12,7 @@ const Header = () => {
 	const IsMenuOpen = useSelector((store) => store.app.isMenuOpen);
 	return (
 		<>
-			<header
+		<header
 				className=" shadow-lg fixed top-0 left-0 right-0 h-[80px] z-[99999] px-[20px] py-0 bg-white "
 				id="topHeader"
 			>
