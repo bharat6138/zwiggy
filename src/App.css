@@ -239,159 +239,159 @@ html {
 @font-face {
 	font-family: ProximaNova;
 	font-weight: 700;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/700.ttf")
 			format("truetype");
 }
 @font-face {
 	font-family: ProximaNova;
 	font-weight: 600;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/600.ttf")
 			format("truetype");
 }
 @font-face {
 	font-family: ProximaNova;
 	font-weight: 500;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/500.ttf")
 			format("truetype");
 }
 @font-face {
 	font-family: ProximaNova;
 	font-weight: 400;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/400.ttf")
 			format("truetype");
 }
 @font-face {
 	font-family: ProximaNova;
 	font-weight: 300;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/300.ttf")
 			format("truetype");
 }
 @font-face {
 	font-family: ProximaNovaBold;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.eot");
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.eot?#iefix")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.eot");
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.eot?#iefix")
 			format("embedded-opentype"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.woff2")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/bold.ttf")
 			format("truetype");
 }
 @font-face {
 	font-family: AsapCondensedSemiBold;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.eot");
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.eot?#iefix")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.eot");
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.eot?#iefix")
 			format("embedded-opentype"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.ttf")
 			format("truetype"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.svg#AsapCondensedSemiBold")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/AsapCondensed-SemiBold.svg#AsapCondensedSemiBold")
 			format("svg");
 	font-style: normal;
 	font-weight: 400;
 }
 @font-face {
 	font-family: ProximaNovaCondensedBold;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.eot");
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.eot?#iefix")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.eot");
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.eot?#iefix")
 			format("embedded-opentype"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.woff2")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Bold.ttf")
 			format("truetype");
 	font-style: normal;
 }
 @font-face {
 	font-family: ProximaNovaBlack;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.ttf")
 			format("truetype");
 	font-style: normal;
 }
 @font-face {
 	font-family: ProximaNovaCondensedBlack;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Black.ttf")
 			format("truetype");
 	font-style: normal;
 }
 @font-face {
 	font-family: ProximaNovaCondensedRegular;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaCondensedRegular.ttf")
 			format("truetype");
 	font-style: normal;
 }
 @font-face {
 	font-family: ProximaNovaExtraBold;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaBlack.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaExtraBold.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaExtraBold.ttf")
 			format("truetype");
 	font-style: normal;
 }
 @font-face {
 	font-family: ProximaNovaLight;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaLight.ttf")
 			format("truetype");
 	font-style: normal;
 }
 @font-face {
 	font-family: ProximaNovaSemiBold;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ux3/ProximaNovaSemiBold.ttf")
 			format("truetype");
 	font-style: normal;
 }
 @font-face {
 	font-family: ProximaNovaCondensedExtraBold;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.woff2")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.woff2")
 			format("woff2"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.woff")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.woff")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.ttf")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/FontAssets/ProximaNovaCond-Extrabld.ttf")
 			format("truetype");
 	font-style: normal;
 }
@@ -453,14 +453,14 @@ input::-ms-clear {
 }
 @font-face {
 	font-family: icomoon;
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.eot?eojet8");
-	src: url("https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.eot?eojet8#iefix")
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.eot?eojet8");
+	src: url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.eot?eojet8#iefix")
 			format("embedded-opentype"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.ttf?eojet8")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.ttf?eojet8")
 			format("truetype"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.woff?eojet8")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.woff?eojet8")
 			format("woff"),
-		url("https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.svg?eojet8#icomoon")
+		url("https://corsanywhere.herokuapp.com/https://res.cloudinary.com/swiggy/raw/upload/v1/FontAssets/dweb/icomoon.svg?eojet8#icomoon")
 			format("svg");
 	font-weight: 400;
 	font-style: normal;
