@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { NavLink, Link } from "react-router-dom";
 import { useLocation } from "react-router-dom";
 const Filter = () => {
@@ -15,23 +15,41 @@ const Filter = () => {
       <div className="flex items-center mt-[9px]">
         <a className="_2-ofZ _3bkpC" href="/search" style={{ opacity: 0 }}>
           <span className="icon-magnifier Vqj7X" />
-          Search
+          Search {splitLocation[1]}
         </a>
-        <div className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative ${splitLocation[1] === "" ? "active" : ""}`}>
-          <Link to="/relevance?sortBy=RELEVANCE">Relevance</Link>
+        <div
+          className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative activeMenu`}
+        >
+          <NavLink activeClassName="active" to="/">
+            Relevance {splitLocation[1]}
+          </NavLink>
         </div>
-        <div className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative ${splitLocation[1] === "DELIVERY_TIME" ? "active" : ""}`}>
-        <Link to="/delivery?sortBy=DELIVERY_TIME">Delivery Time</Link>
+        <div
+          className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative activeMenu`}
+        >
+          <NavLink activeClassName="active" to="/delivery?sortBy=DELIVERY_TIME">
+            Delivery Time
+          </NavLink>
         </div>
-        <div className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative ${splitLocation[1] === "RATING" ? "active" : ""}`}>
-        <Link to="/rating?sortBy=RATING">Rating</Link>
+        <div
+          className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative activeMenu`}
+        >
+          <NavLink activeClassName="active" to="/rating?sortBy=RATING">
+            Rating
+          </NavLink>
         </div>
-        {/* <div className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative ${splitLocation[1] === "" ? "active" : ""}`}>
+        <div
+          className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative `}
+        >
           Cost: Low to High
         </div>
-        <div className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative ${splitLocation[1] === "" ? "active" : ""}`}>
+        <div
+          className={`flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative ${
+            splitLocation[1] === "" ? "active" : ""
+          }`}
+        >
           Cost: High to Low
-        </div> */}
+        </div>
         <div className="flex items-center text-[16px] font-[300] capitalize text-[#686b78] ml-[35px] cursor-pointer relative">
           <span className="h0xOG">Filters</span>
           <div className="font-[500] text-[#3d4152] ml-[10px]">
