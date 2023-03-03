@@ -20,18 +20,16 @@ function App() {
         <div className="relative pt-[80px] min-h-[100%] flex flex-col min-w-[1240px]">
           <Header />
           <LeftNav />
-		  <div className=" flex-grow-[1] ">
-		 
-		  
-          <Routes>
-            <Route path="/" exact element={<Body />} >
-			<Route path="/" exact element={<Feed />} />
-			<Route path="/rating" exact element={<Feed />} />
-			<Route path="/delivery" exact element={<Feed />} />
-			</Route>
-          </Routes>
+          <div className=" flex-grow-[1] ">
+            <Routes>
+              <Route path="/" exact element={<Body />}>
+                <Route path="/" exact element={<Feed />} />
+                <Route path="/rating" exact element={<Feed />} />
+                <Route path="/delivery" exact element={<Feed />} />
+              </Route>
+            </Routes>
+          </div>
         </div>
-		</div>
       </BrowserRouter>
     </Provider>
   );
